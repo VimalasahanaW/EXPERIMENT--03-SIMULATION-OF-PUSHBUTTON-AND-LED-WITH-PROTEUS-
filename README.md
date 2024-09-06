@@ -304,8 +304,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-
+## LED ON:
 ![Screenshot 2024-09-06 142128](https://github.com/user-attachments/assets/701000a9-9be8-43a3-a2de-e46533f24125)
+
+## LED OFF:
+
+![Screenshot 2024-09-06 143058](https://github.com/user-attachments/assets/8f0cb7a3-2f8a-498d-a82e-ff08a04f03b9)
 
 
 
